@@ -1,6 +1,7 @@
 ---
 title: Energy Equity
 layout: landing
+peralink: /
 ---
 
 # Join a community crafting an equitable energy transition
