@@ -6,7 +6,9 @@ permalink: /
 
 # A community crafting an equitable energy transition
 
+<div class="centered">
 <a href="https://emrgi.com/enroll" class="button">Join Now</a>
+</div>
 
 ## Why We Care
 
