@@ -1,0 +1,43 @@
+# Site settings
+title: Emrgi Energy Equity
+description: A community crafting an equitable energy transition
+baseurl: "" # Leave empty for root URL
+url: "https://yourusername.github.io" # Or your custom domain like https://emrgi.com
+
+# GitHub Pages compatible
+theme: null
+
+# Permalinks
+permalink: pretty
+
+# Markdown and build options
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude these files/folders from the build
+exclude:
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - yarn.lock
+  - README.md
+  - setup.sh
+
+# Include these folders even if they're normally ignored
+include:
+  - _pages
+  - assets
+
+# Collections (optional, if you add more sections later)
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+
+# Optional: If using a custom domain
+# Set this only if you use a custom domain
+# CNAME file should also exist in root
+url: "https://emrgi.org"
