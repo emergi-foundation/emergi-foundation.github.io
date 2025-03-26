@@ -4,7 +4,7 @@ layout: landing
 permalink: /
 ---
 
-# Join a community crafting an equitable energy transition
+# A community crafting an equitable energy transition
 
 <a href="https://emrgi.com/enroll" class="button">Join Now</a>
 
