@@ -1,6 +1,6 @@
 ---
 title: Energy Equity
-layout: default
+layout: landing
 ---
 
 # Join a community crafting an equitable energy transition
