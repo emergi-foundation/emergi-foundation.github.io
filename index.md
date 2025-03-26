@@ -1,10 +1,12 @@
 ---
-title: Energy Equity
+title: Emrgi Foundation
 layout: landing
 peralink: /
 ---
 
 # Join a community crafting an equitable energy transition
+
+[Join Now](emrgi.com/enroll){: .button }
 
 ## Why We Care
 
