@@ -1,5 +1,5 @@
 ---
-title: Emrgi Foundation
+title: Emrgi
 layout: landing
 permalink: /
 ---
@@ -18,7 +18,7 @@ While solar energy could be an affordable and empowering solution for most consu
 
 ## Emrgi's Cooperative Structure
 
-All those using Emrgi services are **member-owners of the Emrgi Cooperative**.
+All those using Emrgi services are **member-owners of a cooperative**.
 
 - Fees collected by the cooperative cover ongoing service operations.
 - Any remaining funds are passed back to members as **dividends**.
@@ -32,7 +32,7 @@ All those using Emrgi services are **member-owners of the Emrgi Cooperative**.
   - Direct cash withdrawals
   - Invest in additional clean energy
 
-The Emrgi Cooperative is **equitable by design**, creating avenues to address systemic injustices in the current power grid.
+Emrgi is **equitable by design**, creating avenues to address systemic injustices in the current power grid.
 
 <div class="centered">
 <a href="https://emrgi.com/enroll" class="button">Join Now</a>
@@ -40,13 +40,11 @@ The Emrgi Cooperative is **equitable by design**, creating avenues to address sy
 
 ---
 
-## Providing Relief Through the Emrgi Equity Fund
+## Providing Relief
 
 For **every $1 Emrgi earns**, **$1 is donated** to support families facing unaffordable energy bills.
 
-These donations go to the **Emrgi Equity Fund**, powered by the **Emrgi Foundation**, a 501(c)(3) not-for-profit.
-
-### The Fund Provides:
+These donations go to an independently managed fund that provides:
 
 - Free upgrades
 - Energy assistance
@@ -58,7 +56,7 @@ These donations go to the **Emrgi Equity Fund**, powered by the **Emrgi Foundati
 
 ## Partner With Us
 
-As we build this fund with our early cooperative members, we’re eager to connect with:
+As we grow, we’re eager to connect with:
 
 - Partner organizations
 - Program advisors
@@ -67,6 +65,6 @@ As we build this fund with our early cooperative members, we’re eager to conne
 [Reach Out Here](https://www.emrgi.com/contact)
 
 ---
-## Driven by research
+## Driven by Research and Experience
 
 Our work is backed by [cutting-edge research](https://www.nature.com/articles/s41467-021-27673-y) on energy poverty, energy burden, and net energy return, driven by the work of our founders. Stay tuned for continued exploration of the best ways to make the energy transition more equitable.
