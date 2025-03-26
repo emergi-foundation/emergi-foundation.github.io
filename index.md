@@ -6,7 +6,7 @@ peralink: /
 
 # Join a community crafting an equitable energy transition
 
-[Join Now](emrgi.com/enroll){: .button }
+<a href="emrgi.com/enroll" class="button">Join Now</a>
 
 ## Why We Care
 
