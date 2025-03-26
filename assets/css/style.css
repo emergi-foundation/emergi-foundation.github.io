@@ -81,8 +81,11 @@ body {
 .page-footer,
 .content > h1,
 .content > h2,
-.content > h3,
 .button,
 .callout {
+  text-align: center;
+}
+
+.centered {
   text-align: center;
 }
