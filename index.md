@@ -6,10 +6,6 @@ permalink: /
 
 # A community crafting an equitable energy transition
 
-<div class="centered">
-<a href="https://emrgi.com/enroll" class="button">Join Now</a>
-</div>
-
 ## Why We Care
 
 **1 in 5 American households** suffer from energy poverty, defined as spending more than **6% of one's income on energy each month**.
@@ -38,7 +34,9 @@ All those using Emrgi services are **member-owners of the Emrgi Cooperative**.
 
 The Emrgi Cooperative is **equitable by design**, creating avenues to address systemic injustices in the current power grid.
 
-> We welcome thoughts and feedback as we continue developing this community.
+<div class="centered">
+<a href="https://emrgi.com/enroll" class="button">Join Now</a>
+</div>
 
 ---
 
