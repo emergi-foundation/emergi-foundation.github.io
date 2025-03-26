@@ -18,7 +18,7 @@ While solar energy could be an affordable and empowering solution for most consu
 
 ## Emrgi's Cooperative Structure
 
-All those using Emrgi services are **member-owners of the Emergi Cooperative**.
+All those using Emrgi services are **member-owners of the Emrgi Cooperative**.
 
 - Fees collected by the cooperative cover ongoing service operations.
 - Any remaining funds are passed back to members as **dividends**.
@@ -32,7 +32,7 @@ All those using Emrgi services are **member-owners of the Emergi Cooperative**.
   - Direct cash withdrawals
   - Invest in additional clean energy
 
-The Emergi Cooperative is **equitable by design**, creating avenues to address systemic injustices in the current power grid.
+The Emrgi Cooperative is **equitable by design**, creating avenues to address systemic injustices in the current power grid.
 
 > We welcome thoughts and feedback as we continue developing this community.
 
@@ -42,7 +42,7 @@ The Emergi Cooperative is **equitable by design**, creating avenues to address s
 
 For **every $1 Emrgi earns**, **$1 is donated** to support families facing unaffordable energy bills.
 
-These donations go to the **Emrgi Equity Fund**, powered by the **Emergi Foundation**, a 501(c)(3) not-for-profit.
+These donations go to the **Emrgi Equity Fund**, powered by the **Emrgi Foundation**, a 501(c)(3) not-for-profit.
 
 ### The Fund Provides:
 
