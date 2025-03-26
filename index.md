@@ -16,7 +16,7 @@ While solar energy could be an affordable and empowering solution for most consu
 
 ---
 
-## Emrgi's Cooperative Structure
+## Cooperative Structure
 
 All those using Emrgi services are **member-owners of a cooperative**.
 
