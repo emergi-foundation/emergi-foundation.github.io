@@ -76,3 +76,13 @@ body {
   color: var(--dark-gray);
   font-size: 0.875rem;
 }
+
+.page-header,
+.page-footer,
+.content > h1,
+.content > h2,
+.content > h3,
+.button,
+.callout {
+  text-align: center;
+}
