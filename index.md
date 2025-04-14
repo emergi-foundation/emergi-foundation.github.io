@@ -4,7 +4,7 @@ layout: landing
 permalink: /
 ---
 
-# A community crafting an equitable energy transition
+# A community crafting an equitable energy transition {#top}
 
 **Emrgi is working to make clean energy affordable and accessible to everyone — especially communities most burdened by high energy costs.**
 
@@ -12,7 +12,7 @@ permalink: /
 
 ---
 
-## Our Mission
+## Our Mission {#mission}
 
 Emrgi exists to **alleviate energy poverty** through community-led clean energy solutions. We empower households and organizations to participate in the energy transition by:
 
@@ -34,7 +34,7 @@ Solar energy could be an affordable, empowering solution — but for many, it’
 
 ---
 
-## Our Cooperative Model
+## Our Cooperative Model {#cooperative}
 
 All Emrgi participants are **member-owners**.
 
@@ -57,7 +57,7 @@ Emrgi is **equitable by design**, and our model aims to reverse the structural i
 
 ---
 
-## Energy Equity Fund
+## Energy Equity Fund {#relief}
 
 For **every $1 Emrgi earns**, we donate **$1** to support families experiencing unaffordable energy bills.
 
@@ -71,7 +71,7 @@ These donations go to the **Emrgi Equity Fund**, which provides:
 
 ---
 
-## Partner With Us
+## Partner With Us {#partners}
 
 We are growing and seek collaborators across sectors:
 
@@ -90,7 +90,7 @@ Our approach is informed by [peer-reviewed research](https://www.nature.com/arti
 
 ---
 
-## About Emrgi
+## About Emrgi {#contact}
 
 Emrgi is a U.S.-based nonprofit and cooperative organization working to build an equitable energy transition. We serve low-to-moderate income households and nonprofits through clean energy access and technical assistance.
 
