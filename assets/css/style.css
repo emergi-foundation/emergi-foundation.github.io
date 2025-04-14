@@ -89,3 +89,53 @@ body {
 .centered {
   text-align: center;
 }
+
+/* Navigation Bar */
+.main-nav {
+  background-color: #ffffff;
+  border-bottom: 1px solid #dddddd;
+  padding: 1rem 1.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-container {
+  max-width: 1000px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo {
+  font-family: var(--font-header);
+  font-weight: 700;
+  font-size: 1.25rem;
+  text-decoration: none;
+  color: var(--primary);
+}
+
+.nav-links a {
+  margin-left: 1rem;
+  font-family: var(--font-body);
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--dark-gray);
+  transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+  color: var(--primary);
+}
+
+/* Footer Links */
+.footer-links {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.footer-links a {
+  color: var(--dark-gray);
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
