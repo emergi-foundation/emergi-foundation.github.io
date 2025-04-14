@@ -92,7 +92,7 @@ Our approach is informed by [peer-reviewed research](https://www.nature.com/arti
 
 ## About Emrgi
 
-Emrgi is a U.S.-based nonprofit and cooperative organization working to build an equitable energy transition. We serve low-to-moderate income households and nonprofits through clean energy access and advocacy.
+Emrgi is a U.S.-based nonprofit and cooperative organization working to build an equitable energy transition. We serve low-to-moderate income households and nonprofits through clean energy access and technical assistance.
 
 Our work is made possible through the support of our members, volunteers, and aligned funders.
 
