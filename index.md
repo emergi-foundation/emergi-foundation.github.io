@@ -6,65 +6,94 @@ permalink: /
 
 # A community crafting an equitable energy transition
 
-## Why We Care
+**Emrgi is working to make clean energy affordable and accessible to everyone — especially communities most burdened by high energy costs.**
 
-**1 in 5 American households** suffer from energy poverty, defined as spending more than **6% of one's income on energy each month**.
-
-While solar energy could be an affordable and empowering solution for most consumers of the power grid, it remains out of reach due to **high upfront costs** and **complicated financing**.
-
-**Emrgi is using the tried and tested cooperative model** to rethink where the profits from energy markets are directed — to the benefit of our members.
+> Emrgi Foundation is proud to operate as a 501(c)(3).
 
 ---
 
-## Cooperative Structure
+## Our Mission
 
-All those using Emrgi services are **member-owners of a cooperative**.
+Emrgi exists to **alleviate energy poverty** through community-led clean energy solutions. We empower households and organizations to participate in the energy transition by:
 
-- Fees collected by the cooperative cover ongoing service operations.
-- Any remaining funds are passed back to members as **dividends**.
+- Reinvesting profits back into the community
+- Offering bill relief and energy upgrades
+- Supporting member ownership and decision-making
+
+We believe no one should have to choose between energy and other basic needs.
+
+---
+
+## Why We Care
+
+**1 in 5 American households** suffer from energy poverty, spending more than **6% of income on energy each month**.
+
+Solar energy could be an affordable, empowering solution — but for many, it’s out of reach due to **upfront costs and financing barriers**.
+
+**Emrgi** uses a cooperative model to redirect energy market profits back to our members, enabling cleaner, more equitable energy for all.
+
+---
+
+## Our Cooperative Model
+
+All Emrgi participants are **member-owners**.
+
+- Fees support day-to-day services.
+- Surpluses are redistributed as **dividends**.
 
 ### How It Works
 
-- Members earn points based on **monthly energy usage (in kWh)**.
-- The value of points is determined by the **collective wealth** of the cooperative.
-- Members choose how many points to **stake** in the pooled fund and how to use them:
-  - Reduce energy bills
-  - Direct cash withdrawals
-  - Invest in additional clean energy
+- Members earn points based on **monthly energy usage (kWh)**.
+- These points can be used to:
+  - Offset energy bills
+  - Withdraw as cash
+  - Reinvest in clean energy projects
 
-Emrgi is **equitable by design**, creating avenues to address systemic injustices in the current power grid.
+Emrgi is **equitable by design**, and our model aims to reverse the structural injustices of today’s power grid.
 
 <div class="centered">
-<a href="https://emrgi.com/enroll" class="button">Join Now</a>
+  <a href="https://emrgi.com/enroll" class="button">Join Now</a>
 </div>
 
 ---
 
-## Providing Relief
+## Energy Equity Fund
 
-For **every $1 Emrgi earns**, **$1 is donated** to support families facing unaffordable energy bills.
+For **every $1 Emrgi earns**, we donate **$1** to support families experiencing unaffordable energy bills.
 
-These donations go to an independently managed fund that provides:
+These donations go to the **Emrgi Equity Fund**, which provides:
 
-- Free upgrades
-- Energy assistance
-- Relief to households paying more than 6% of income on energy
+- Free energy efficiency upgrades
+- Emergency bill assistance
+- Clean energy infrastructure in frontline communities
 
-> The power of the sun is free and abundant. With the right infrastructure, no one should have to limit their energy usage.
+> With the right infrastructure, no one should have to limit their energy usage.
 
 ---
 
 ## Partner With Us
 
-As we grow, we’re eager to connect with:
+We are growing and seek collaborators across sectors:
 
-- Partner organizations
-- Program advisors
-- Policy advocates
+- Local governments & utilities
+- Housing providers
+- Community-based organizations
+- Energy justice researchers
 
-[Reach Out Here](https://www.emrgi.com/contact)
+[Contact Us](https://www.emrgi.com/contact) to explore partnerships or advisory opportunities.
 
 ---
-## Driven by Research and Experience
 
-Our work is backed by [cutting-edge research](https://www.nature.com/articles/s41467-021-27673-y) on energy poverty, energy burden, and net energy return, driven by the work of our founders. Stay tuned for continued exploration of the best ways to make the energy transition more equitable.
+## Research-Driven, Mission-Focused
+
+Our approach is informed by [peer-reviewed research](https://www.nature.com/articles/s41467-021-27673-y) on energy burden and clean energy access. We’re committed to transparency, innovation, and learning from our community.
+
+---
+
+## About Emrgi
+
+Emrgi is a U.S.-based nonprofit and cooperative organization working to build an equitable energy transition. We serve low-to-moderate income households and nonprofits through clean energy access and advocacy.
+
+Our work is made possible through the support of our members, volunteers, and aligned funders.
+
+---
